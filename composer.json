@@ -1,0 +1,14 @@
+{
+    "name": "serie/test2",
+    "autoload": {
+        "psr-4": {
+            "Classes\\": "Classes/"
+        }
+    },
+    "authors": [
+        {
+            "name": "seryozha"
+        }
+    ],
+    "require": {}
+}
