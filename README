@@ -10,4 +10,3 @@ run composer install
 php версии 7.4. Реаризовень с помощью класса TimeToWordConverter который имплементируется от TimeToWordConverterInterface
 и реаризует его метнод convert(). Данные хронятся в отдельных файлах в виде массива hours.php для часов и minutes.php для минут.
 Запускается с index.php файла. Установлен автозагрузка классов composer. Apache версии 2.4.
-Хранилища github: https://github.com/seryozhaharutyunyan/test2.git
